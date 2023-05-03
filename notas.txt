@@ -1,0 +1,3 @@
+ Descargar driver de chrome
+ https://sites.google.com/a/chromium.org/chromedriver/downloads
+    chromedriver_win32.zip

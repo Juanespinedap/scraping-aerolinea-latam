@@ -1,0 +1,785 @@
+{
+    "total_vuelos": 30,
+    "info": [
+        {
+            "vuelo": 1,
+            "hora_salida": "3:31 p. m.",
+            "hora_llegada": "4:40 p. m.",
+            "duraion_vuelo": "1 h 9 min",
+            "escala": "Directo",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 1 hora 9 minutos, realizando .",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 284680"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 362030"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 415580"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 439380"
+                }
+            ]
+        },
+        {
+            "vuelo": 2,
+            "hora_salida": "4:09 a. m.",
+            "hora_llegada": "8:34 a. m.",
+            "duraion_vuelo": "4 h 25 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 4 horas 25 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 3,
+            "hora_salida": "4:09 a. m.",
+            "hora_llegada": "10:34 a. m.",
+            "duraion_vuelo": "6 h 25 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 6 horas 25 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 298480"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 375830"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 429380"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 453180"
+                }
+            ]
+        },
+        {
+            "vuelo": 4,
+            "hora_salida": "4:34 a. m.",
+            "hora_llegada": "8:34 a. m.",
+            "duraion_vuelo": "4 h",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 4 horas, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 5,
+            "hora_salida": "4:34 a. m.",
+            "hora_llegada": "10:34 a. m.",
+            "duraion_vuelo": "6 h",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 6 horas, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 298480"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 375830"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 429380"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 453180"
+                }
+            ]
+        },
+        {
+            "vuelo": 6,
+            "hora_salida": "5:33 a. m.",
+            "hora_llegada": "10:34 a. m.",
+            "duraion_vuelo": "5 h 1 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 5 horas 1 minuto, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 298480"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 375830"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 429380"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 453180"
+                }
+            ]
+        },
+        {
+            "vuelo": 7,
+            "hora_salida": "5:33 a. m.",
+            "hora_llegada": "12:06 p. m.",
+            "duraion_vuelo": "6 h 33 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 6 horas 33 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 8,
+            "hora_salida": "5:48 a. m.",
+            "hora_llegada": "10:34 a. m.",
+            "duraion_vuelo": "4 h 46 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 4 horas 46 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 298480"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 375830"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 429380"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 453180"
+                }
+            ]
+        },
+        {
+            "vuelo": 9,
+            "hora_salida": "5:48 a. m.",
+            "hora_llegada": "12:06 p. m.",
+            "duraion_vuelo": "6 h 18 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 6 horas 18 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 10,
+            "hora_salida": "6:48 a. m.",
+            "hora_llegada": "10:34 a. m.",
+            "duraion_vuelo": "3 h 46 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 3 horas 46 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 514830"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 592180"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 645730"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 669530"
+                }
+            ]
+        },
+        {
+            "vuelo": 11,
+            "hora_salida": "6:48 a. m.",
+            "hora_llegada": "12:06 p. m.",
+            "duraion_vuelo": "5 h 18 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 5 horas 18 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 12,
+            "hora_salida": "6:48 a. m.",
+            "hora_llegada": "1:58 p. m.",
+            "duraion_vuelo": "7 h 10 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 7 horas 10 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 13,
+            "hora_salida": "7:18 a. m.",
+            "hora_llegada": "1:04 p. m.",
+            "duraion_vuelo": "5 h 46 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 5 horas 46 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 479900"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 609900"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 689900"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 734900"
+                }
+            ]
+        },
+        {
+            "vuelo": 14,
+            "hora_salida": "7:33 a. m.",
+            "hora_llegada": "12:06 p. m.",
+            "duraion_vuelo": "4 h 33 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 4 horas 33 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 15,
+            "hora_salida": "7:33 a. m.",
+            "hora_llegada": "1:58 p. m.",
+            "duraion_vuelo": "6 h 25 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 6 horas 25 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 16,
+            "hora_salida": "8:02 a. m.",
+            "hora_llegada": "12:06 p. m.",
+            "duraion_vuelo": "4 h 4 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 4 horas 4 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 17,
+            "hora_salida": "8:02 a. m.",
+            "hora_llegada": "1:58 p. m.",
+            "duraion_vuelo": "5 h 56 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 5 horas 56 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 18,
+            "hora_salida": "10:02 a. m.",
+            "hora_llegada": "1:58 p. m.",
+            "duraion_vuelo": "3 h 56 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 3 horas 56 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 19,
+            "hora_salida": "10:02 a. m.",
+            "hora_llegada": "3:43 p. m.",
+            "duraion_vuelo": "5 h 41 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 5 horas 41 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 20,
+            "hora_salida": "10:02 a. m.",
+            "hora_llegada": "4:19 p. m.",
+            "duraion_vuelo": "6 h 17 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 6 horas 17 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 21,
+            "hora_salida": "11:04 a. m.",
+            "hora_llegada": "3:43 p. m.",
+            "duraion_vuelo": "4 h 39 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 4 horas 39 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 22,
+            "hora_salida": "11:04 a. m.",
+            "hora_llegada": "4:19 p. m.",
+            "duraion_vuelo": "5 h 15 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 5 horas 15 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 23,
+            "hora_salida": "11:04 a. m.",
+            "hora_llegada": "5:29 p. m.",
+            "duraion_vuelo": "6 h 25 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 6 horas 25 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 24,
+            "hora_salida": "12:49 p. m.",
+            "hora_llegada": "4:19 p. m.",
+            "duraion_vuelo": "3 h 30 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 3 horas 30 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 25,
+            "hora_salida": "12:49 p. m.",
+            "hora_llegada": "5:29 p. m.",
+            "duraion_vuelo": "4 h 40 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 4 horas 40 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 26,
+            "hora_salida": "12:49 p. m.",
+            "hora_llegada": "7:04 p. m.",
+            "duraion_vuelo": "6 h 15 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 6 horas 15 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 27,
+            "hora_salida": "1:11 p. m.",
+            "hora_llegada": "9:24 p. m.",
+            "duraion_vuelo": "8 h 13 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 8 horas 13 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 417600"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 547600"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 627600"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 672600"
+                }
+            ]
+        },
+        {
+            "vuelo": 28,
+            "hora_salida": "4:03 p. m.",
+            "hora_llegada": "8:29 p. m.",
+            "duraion_vuelo": "4 h 26 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 4 horas 26 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 29,
+            "hora_salida": "10:46 p. m.",
+            "hora_llegada": "5:55 a. m.\n+1",
+            "duraion_vuelo": "7 h 9 min",
+            "escala": "1 parada",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 7 horas 9 minutos, realizando 1 parada.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 251240"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 328590"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 382140"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 405940"
+                }
+            ]
+        },
+        {
+            "vuelo": 30,
+            "hora_salida": "12:49 p. m.",
+            "hora_llegada": "8:49 p. m.",
+            "duraion_vuelo": "8 h",
+            "escala": "2 paradas",
+            "itinerario": "Itinerario de vuelo, viajando desde Jose Maria Cordova hacia Intl. Rafael Nunez, con una duracion de 8 horas, realizando 2 paradas.",
+            "tarifas": [
+                {
+                    "categoria": "basic",
+                    "precio": "COP 472340"
+                },
+                {
+                    "categoria": "light",
+                    "precio": "COP 627040"
+                },
+                {
+                    "categoria": "plus",
+                    "precio": "COP 728190"
+                },
+                {
+                    "categoria": "top",
+                    "precio": "COP 751990"
+                }
+            ]
+        }
+    ]
+}
